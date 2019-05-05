@@ -8,8 +8,9 @@
     <dimen name="recyclerView_elevation">4dp</dimen>
     <dimen name="margin_bottom">8dp</dimen>
     <dimen name="bar_elevation">4dp</dimen>
-    <dimen name="card_elevation">8dp</dimen>
+    <dimen name="card_elevation">1dp</dimen>
     <dimen name="body_elevation">2dp</dimen>
     <dimen name="fab_elevation">6dp</dimen>
     <dimen name="fab_press_translation_z">12dp</dimen>
+    <dimen name="app_bar_elevation">4dp</dimen>
 </resources>
